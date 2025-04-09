@@ -4,8 +4,9 @@
 Computer Science @ DII.
 ... and this branch IS the clone.
 
-First computer, Tandy Sensation.  Shout-out ot Radio Shack.  25mhz
+First computer, Tandy Sensation.  Shout-out ot Radio Shack.  <ul>Specs<li>25mhz<li>4mb RAM<li>107mb HD</ul>
 New York!   The city so nice they named it twice.
+<img src="https://images.fineartamerica.com/images-medium-large-5/1980s-new-york-city-ny-downtown-skyline-vintage-images.jpg">
 
 Studied in Art & Technology.   Overeducated, eh?
 
