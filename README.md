@@ -1,8 +1,14 @@
-## Hi there 👋
+<h1>## Hi there 👋</h1>
 
-The best are with CPS
+<b>The best are with CPS</b>
 Computer Science @ DII.
 ... and this branch IS the clone.
+
+First computer, Tandy Sensation.  Shout-out ot Radio Shack.  25mhz
+New York!   The city so nice they named it twice.
+
+Studied in Art & Technology.   Overeducated, eh?
+
 
 <!--
 **gtedaldi/gtedaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
