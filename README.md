@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-The best are with CPS.
+The best are with CPS
 Computer Science @ DII.
+... and this branch IS the clone.
 
 <!--
 **gtedaldi/gtedaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
