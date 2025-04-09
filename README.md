@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 The best are with CPS.
-
+Computer Science @ DII.
 
 <!--
 **gtedaldi/gtedaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
