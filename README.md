@@ -3,13 +3,13 @@
 The best are with CPS.
 Computer Science (amongst other things) @ DII.
 
-<img src="https://www.americanboard.org/blog/wp-content/uploads/2017/01/Grant_Tedaldi.jpg" alt="Grant Tedaldu" height=500px>
+<img src="https://www.americanboard.org/blog/wp-content/uploads/2017/01/Grant_Tedaldi.jpg" alt="Grant Tedaldu" height=300px>
 
 The first tech I can recall owning.... yikes.
 I remember a neon orange squeeze mini flashlight from South of the Border in beautiful Hamer, South Carolina.
 I probably played Atari 2600 before NES.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/1200px-Atari-2600-Wood-4Sw-Set.png" alt="Atari Console" width=500px>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Atari-2600-Wood-4Sw-Set.png/1200px-Atari-2600-Wood-4Sw-Set.png" alt="Atari Console" width=300px>
 
 I'm from Massapequa.  That's a whole thing.
 
